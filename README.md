@@ -58,11 +58,11 @@
   
 | frontEnd (VanillaJS) | frontEnd (ReactJS) | backEnd (NodeJS) | fullStack |
 | --------------------| -------------------| -----------------| --------- |
-| [![Instagram VanillaJS](https://img.shields.io/badge/Instagram%20VanillaJS-Ver%20Projeto-yellow)](https://github.com/mateuspit/projeto2-instagram) | Exemplo de conteúdo | Exemplo de conteúdo | Exemplo de conteúdo |
-| [![Parrot Card Game](https://img.shields.io/badge/Parrot%20Card%20Game-Ver%20Projeto-yellow)](https://github.com/mateuspit/projeto4-parrots) | Exemplo de conteúdo | Exemplo de conteúdo | Exemplo de conteúdo |
-| [![Bate-Papo UOL](https://img.shields.io/badge/Bate--Papo%20UOL-Ver%20Projeto-yellow)](https://github.com/mateuspit/projeto5-batepapouol) | Exemplo de conteúdo | Exemplo de conteúdo | Exemplo de conteúdo |
-| [![BuzzQuizz](https://img.shields.io/badge/BuzzQuizz-Ver%20Projeto-yellow)](https://github.com/mateuspit/projeto6-buzzquizz) | Exemplo de conteúdo | Exemplo de conteúdo | Exemplo de conteúdo |
-|  | Exemplo de conteúdo | Exemplo de conteúdo | Exemplo de conteúdo |
+| [![Instagram VanillaJS](https://img.shields.io/badge/Instagram%20VanillaJS-Ver%20Projeto-yellow)](https://github.com/mateuspit/projeto2-instagram) | [![Instagram](https://img.shields.io/badge/Instagram-Ver%20Projeto-61dbfb)](https://github.com/mateuspit/projeto7-instagramreact) | Exemplo de conteúdo | Exemplo de conteúdo |
+| [![Parrot Card Game](https://img.shields.io/badge/Parrot%20Card%20Game-Ver%20Projeto-yellow)](https://github.com/mateuspit/projeto4-parrots) | [![Jogo da Forca](https://img.shields.io/badge/Jogo%20da%20Forca-Ver%20Projeto-61dbfb)](https://github.com/mateuspit/projeto8-jogoforca) | Exemplo de conteúdo | Exemplo de conteúdo |
+| [![Bate-Papo UOL](https://img.shields.io/badge/Bate--Papo%20UOL-Ver%20Projeto-yellow)](https://github.com/mateuspit/projeto5-batepapouol) | [![ZapRecall](https://img.shields.io/badge/ZapRecall-Ver%20Projeto-61dbfb)](https://github.com/mateuspit/projeto9-zaprecall) | Exemplo de conteúdo | Exemplo de conteúdo |
+| [![BuzzQuizz](https://img.shields.io/badge/BuzzQuizz-Ver%20Projeto-yellow)](https://github.com/mateuspit/projeto6-buzzquizz) | [![Cineflex](https://img.shields.io/badge/Cineflex-Ver%20Projeto-61dbfb)](https://github.com/mateuspit/projeto10-cineflex) | Exemplo de conteúdo | Exemplo de conteúdo |
+|  | [![TrackIt](https://img.shields.io/badge/TrackIt-Ver%20Projeto-61dbfb)](https://github.com/mateuspit/TrackIt) | Exemplo de conteúdo | Exemplo de conteúdo |
 </div>
 
   
