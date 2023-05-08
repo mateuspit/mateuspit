@@ -45,6 +45,25 @@
 - ✉️ Talk with me:<br>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mateuspit@gmail.com)](mailto:mateuspit@gmail.com)
   
+
+<div align="center">
+
+| Hightlights Projects |
+| ---------------- |
+| <img title="a title" alt="Alt text" src="https://user-images.githubusercontent.com/112985698/236909575-ba7a0aaa-0cce-4106-a57e-1e9d6230c8ad.gif" width="200px"> |
+<!--
+| Project2 |
+| Project3 |
+-->
+  
+| frontEnd (VanillaJS) | frontEnd (ReactJS) | backEnd (NodeJS) | fullStack |
+| --------------------| -------------------| -----------------| --------- |
+| [![Instagram VanillaJS](https://img.shields.io/badge/Instagram%20VanillaJS-Ver%20Projeto-brightgreen)](https://github.com/mateuspit/projeto2-instagram) | Exemplo de conteúdo | Exemplo de conteúdo | Exemplo de conteúdo |
+| Exemplo de conteúdo | Exemplo de conteúdo | Exemplo de conteúdo | Exemplo de conteúdo |
+| Exemplo de conteúdo | Exemplo de conteúdo | Exemplo de conteúdo | Exemplo de conteúdo |
+</div>
+
+  
   
   
 
