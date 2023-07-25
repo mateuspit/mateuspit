@@ -30,6 +30,7 @@
  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> <img src="https://restfulapi.net/wp-content/uploads/rest.png" alt="rest" width="40" height="40"/> </a><br>
+<a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer"> <img src="https://ih1.redbubble.net/image.404020079.1876/st,small,507x507-pad,600x600,f8f8f8.u7.jpg" alt="jest" width="40" height="40"/> </a><br>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <br>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://dq-marketing-site.s3.amazonaws.com/png/sql.png" alt="webpack" width="auto" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
