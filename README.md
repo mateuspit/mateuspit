@@ -2,7 +2,7 @@
   
  ### Hello World! I'm Mateus 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=3000&pause=1500&color=11FF1F&width=480&lines=DESENVOLVEDOR+WEB+FULL-STACK+EM+FORMA%C3%87%C3%83O)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=3000&pause=1500&color=11FF1F&width=380&lines=DESENVOLVEDOR+WEB+FULL-STACK)](https://git.io/typing-svg)
   
   </div>
   
