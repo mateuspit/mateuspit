@@ -6,8 +6,6 @@
   
   </div>
   
-  
-- 👨‍💻 Pronouns: He/Him.
 - 🚀 Currently studying in the last semester of aerospace engineering.
 - 📚 In formation to be a full stack dev.
 - 🤓 Currently learning about:<br>
